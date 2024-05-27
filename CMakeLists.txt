@@ -4,4 +4,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 project(CompileTimeVariableList)
 
-add_executable(CompileTimeVariableList fnv-1a.h main.cpp simplex.h testClasses.h testClasses.cpp)
+add_executable(CompileTimeVariableList fnv.h main.cpp simplex.h testClasses.h testClasses.cpp)
